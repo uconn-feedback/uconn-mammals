@@ -1,2 +1,2 @@
 # uconn-mammals
-Feedback and usage report repository for UCONN Mammals data set [add GBIF data set ID here when published].
+Issue tracking for UCONN Mammals data in the VertNet and other data portals. This dataset corresponds to GBIF dataset [add GBIF data set ID URL here when published].
