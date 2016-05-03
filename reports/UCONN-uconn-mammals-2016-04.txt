@@ -1,0 +1,102 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 3674
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 53
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-21 ; Times: 4
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-14 ; Times: 24
+	Date: 2016-04-15 ; Times: 20
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor country:&#34;paraguay&#34; year &gt;= 1972 year &lt;= 1982 institutioncode:UCONN" ; Times: 1
+	Query: "uconn" ; Times: 4
+	Query: "estancia juan de zalazar" ; Times: 1
+	Query: "akodon country:&#34;paraguay&#34; institutioncode:UCONN" ; Times: 1
+	Query: "Catagonus wagneri country:&#34;paraguay&#34; year &gt;= 1972 year &lt;= 1975" ; Times: 1
+	Query: "noctilio paraguay" ; Times: 2
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 18
+	Query: "Catagonus wagneri country:&#34;paraguay&#34; year &gt;= 1978 year &lt;= 1982" ; Times: 1
+	Query: "Catagonus wagneri country:&#34;paraguay&#34; year &gt;= 1978 year &lt;= 1980" ; Times: 1
+	Query: "genus:conepatus (weight)" ; Times: 2
+	Query: "Catagonus wagneri country:&#34;paraguay&#34;" ; Times: 2
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "catagonus wagneri country:&#34;paraguay&#34; institutioncode:UCONN" ; Times: 1
+	Query: "country:&#34;paraguay&#34; (Wetzel)" ; Times: 1
+	Query: "institutioncode:uconn" ; Times: 1
+	Query: "puma concolor country:&#34;paraguay&#34; institutioncode:UCONN" ; Times: 1
+	Query: "catagonus wagneri institutioncode:UCONN" ; Times: 1
+	Query: "UConn" ; Times: 2
+	Query: "catagonus wagneri" ; Times: 4
+	Query: "puma concolor country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Catagonus wagneri country:&#34;paraguay&#34; year &gt;= 1972 year &lt;= 1982 institutioncode:UCONN" ; Times: 1
+	Query: "Catagonus wagneri country:&#34;paraguay&#34; year &gt;= 1976 year &lt;= 1978" ; Times: 1
+	Query: "institutioncode:UCONN" ; Times: 1
+	Query: "herpailurus country:&#34;paraguay&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus rhode island" ; Times: 2
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "Puma concolor country:&#34;paraguay&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 101 (out of 1312 download events in this period)
+Total number of records downloaded: 7105
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 73
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-17 ; Times: 4
+	Date: 2016-04-14 ; Times: 15
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 6
+	Date: 2016-04-15 ; Times: 8
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 8
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-22 ; Times: 7
+	Date: 2016-04-25 ; Times: 7
+	Date: 2016-04-23 ; Times: 16
+	Date: 2016-04-27 ; Times: 7
+	Date: 2016-04-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "panthera pardus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "mammals chihuahua" ; Times: 2
+	Query: "Leopardus" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "mammals in san luis potosi" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 64
+	Query: "lutra lutra" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+
+
+End of report.
