@@ -1,0 +1,147 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 1586
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 58
+	Country: Brazil ; Times: 1
+	Country: India ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-13 ; Times: 3
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-15 ; Times: 4
+	Date: 2016-08-16 ; Times: 10
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 17
+	Date: 2016-08-23 ; Times: 11
+	Date: 2016-08-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis order:chiroptera stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "sylvilagus transitionalis dukes" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;vermont&#34;" ; Times: 3
+	Query: "Armadillos" ; Times: 1
+	Query: "Conepatus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Hillah" ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 3
+	Query: "family:phocidae order:carnivora stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "CA 11098" ; Times: 3
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "genus:eptesicus order:chiroptera stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "family:felidae order:carnivora stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "family:felidae stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "specificepithet:vitulina genus:phoca stateprovince:&#34;maine&#34; institutioncode:UCONN" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "specificepithet:keenii genus:myotis order:chiroptera stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "genus:lasionycteris order:chiroptera stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 2
+	Query: "specificepithet:borealis genus:lasiurus order:chiroptera stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;new hampshire&#34; institutioncode:UCONN" ; Times: 11
+	Query: "rattus rattus massachusetts" ; Times: 1
+	Query: "mustela frenata massachusetts" ; Times: 2
+	Query: "specificepithet:leibii genus:myotis order:chiroptera stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "specificepithet:leibii genus:myotis stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx family:felidae stateprovince:&#34;maine&#34; institutioncode:UCONN" ; Times: 1
+	Query: "class:mammalia locality:new hampshire" ; Times: 1
+	Query: "genus:eptesicus order:chiroptera stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;maine&#34;" ; Times: 3
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;vermont&#34; institutioncode:UCONN" ; Times: 3
+	Query: "specificepithet:rufus genus:lynx family:felidae stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "genus:phoca stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "family:phocidae stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "sylvilagus transitionalis massachusetts" ; Times: 2
+	Query: "specificepithet:erminea genus:mustela stateprovince:&#34;maine&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 924 download events in this period)
+Total number of records downloaded: 2971
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Unknown ; Times: 11
+	Country: Netherlands ; Times: 4
+	Country: France ; Times: 6
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-15 ; Times: 6
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-31 ; Times: 7
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 11
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 3
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 2
+	Date: 2016-08-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1" ; Times: 2
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "specificepithet:monax genus:Marmota hasmass:1" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "order:Lagomorpha haslength:1" ; Times: 4
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Acomys" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:chinga genus:Conepatus" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1 haslength:1" ; Times: 1
+	Query: "Coyote (Canis)" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:Myotis hasmass:1" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "microtus canicaudus" ; Times: 2
+	Query: "lontra canadensis" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "microtus breweri" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+
+
+End of report.
