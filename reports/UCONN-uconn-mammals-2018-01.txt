@@ -1,0 +1,147 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 1096
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 20
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 23
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-28 ; Times: 4
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 2
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 16
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-07 ; Times: 2
+	Date: 2018-01-14 ; Times: 10
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-16 ; Times: 16
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Oryzomys concolor concolor" ; Times: 1
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "Mazama gouazoubira" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 5
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Alces alces americana" ; Times: 4
+	Query: "Tapirus terrestris terrestris" ; Times: 4
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "vntype:specimen order:cingulata preparations:alcohol" ; Times: 1
+	Query: "genus:Odocoileus virginianus hasmass:1" ; Times: 2
+	Query: "Wood pile" ; Times: 5
+	Query: "chlamyphorus" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 5
+	Query: "specificepithet:albescens genus:Myotis hastissue:1" ; Times: 2
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "vntype:specimen order:Rodentia country:&#34;Iraq&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;kings&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "chlamyphorus truncatus" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "lama glama" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 18
+	Query: "specificepithet:ludovicianus genus:Cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1398 download events in this period)
+Total number of records downloaded: 1141
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 24
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 3
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-02 ; Times: 12
+	Date: 2018-01-25 ; Times: 3
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-23 ; Times: 6
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-31 ; Times: 6
+	Date: 2018-01-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus haslength:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "Myotis albescens" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "American Badger" ; Times: 2
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "Potos flavus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1961 year &lt;= 2017 hasmass:1" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "lama glama" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:albescens genus:Myotis hastissue:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "sus scrofa continent:asia" ; Times: 1
+
+
+End of report.
