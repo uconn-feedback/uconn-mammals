@@ -1,0 +1,100 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 510
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: France ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 5
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-29 ; Times: 4
+	Date: 2018-05-15 ; Times: 6
+	Date: 2018-05-22 ; Times: 11
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 2
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 5
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 2
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 4
+	Query: "ocelot" ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 3
+	Query: "chaetophractus" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 1
+	Query: "specificepithet:dispar genus:sorex institutioncode:UCONN basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Priodontes" ; Times: 2
+	Query: "chlamyphorus" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 3
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 1
+	Query: "genus:Priodontes basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "institutioncode:UCONN" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 2
+	Query: "genus:Priodontes" ; Times: 2
+	Query: "specificepithet:hoyi genus:sorex institutioncode:UCONN basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 6
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1178 download events in this period)
+Total number of records downloaded: 122
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
