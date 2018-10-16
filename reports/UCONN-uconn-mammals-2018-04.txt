@@ -1,0 +1,147 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 1898
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 20
+	Country: United States ; Times: 36
+	Country: Belgium ; Times: 2
+	Country: Paraguay ; Times: 21
+	Country: Argentina ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-23 ; Times: 4
+	Date: 2018-04-22 ; Times: 5
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 7
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-24 ; Times: 1
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-04 ; Times: 3
+	Date: 2018-04-07 ; Times: 7
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 6
+	Date: 2018-04-08 ; Times: 18
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 3
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-17 ; Times: 6
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa Paraguay" ; Times: 1
+	Query: "chrysocyon" ; Times: 1
+	Query: "cabassous chacoensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "genus:Euphractus family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 3
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 12
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;paraguay&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:villosus family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Myrmecophaga family:Myrmecophagidae country:&#34;Paraguay&#34;" ; Times: 4
+	Query: "family:Myrmecophagidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Philander opossum hasmass:1" ; Times: 1
+	Query: "family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "genus:Sciurus institutioncode:UCONN" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 3
+	Query: "genus:Tolypeutes family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 5
+	Query: "specificepithet:vellerosus family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "genus:Tamandua family:Myrmecophagidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 2
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "specificepithet:albiventris genus:Didelphis hasmass:1" ; Times: 2
+	Query: "genus:Dasypus family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Myotis keeni" ; Times: 3
+	Query: "specificepithet:brachyurus genus:Chrysocyon hasmass:1" ; Times: 2
+	Query: "catagonus wagneri" ; Times: 3
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 1
+	Query: "marmota monax massachusetts" ; Times: 1
+	Query: "Cabassous chacoensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 3
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 1
+	Query: "genus:Priodontes family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "beagle canis familiaris" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 22
+	Query: "specificepithet:thous genus:Cerdocyon hasmass:1" ; Times: 1
+	Query: "genus:cABASSOUS family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1359 download events in this period)
+Total number of records downloaded: 10555
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Poland ; Times: 3
+	Country: Uruguay ; Times: 1
+	Country: United States ; Times: 20
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 5
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "chrysocyon" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;kings&#34;" ; Times: 1
+	Query: "Tolypeutes" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;paraguay&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Asuncion (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Platyrrhinus lineatus" ; Times: 3
+	Query: "Muridae hasmass:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "lepus europaeus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "order:Rodentia county:&#34;Monterey&#34;" ; Times: 1
+	Query: "Geomyidae hasmass:1" ; Times: 1
+	Query: "Mammals Illinois Cook" ; Times: 4
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Dipodidae hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+
+
+End of report.
