@@ -1,0 +1,119 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 1175
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-13 ; Times: 3
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-02 ; Times: 3
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-08 ; Times: 7
+	Date: 2018-08-20 ; Times: 5
+	Date: 2018-08-09 ; Times: 5
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 4
+	Date: 2018-08-07 ; Times: 3
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Chiroptera country:&#34;Colombia&#34; institutioncode:UCONN" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 3
+	Query: "family:Tachyglossidae institutioncode:UCONN" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "family:Dasypodidae institutioncode:UCONN" ; Times: 1
+	Query: "herpailurus" ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 10
+	Query: "UCONN 9033" ; Times: 1
+	Query: "(Microtus guentheri)" ; Times: 1
+	Query: "family:Erethizontidae institutioncode:UCONN" ; Times: 1
+	Query: "Monodelphis brevicaudata" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 3
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 2
+	Query: "specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 2
+	Query: "lama guanicoe" ; Times: 2
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 2
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 2
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 2
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1416 download events in this period)
+Total number of records downloaded: 964
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 11
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 5
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 6
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 4
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "family:Dasypodidae institutioncode:UCONN" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "mammals of india" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "&#34;myotis lucifugus&#34; hassex:1 hasmass:1" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+
+
+End of report.
