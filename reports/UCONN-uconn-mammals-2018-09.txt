@@ -1,0 +1,103 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 268
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: Canada ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-24 ; Times: 6
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-07 ; Times: 7
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:3061 &#34;marmota monax&#34;" ; Times: 1
+	Query: "catalognumber:3064 &#34;marmota monax&#34;" ; Times: 1
+	Query: "Ctenomys boliviensis 17508" ; Times: 1
+	Query: "cabassous chacoensis 16891" ; Times: 1
+	Query: "16881 Chlamyphorus retusus" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 2
+	Query: "catalognumber:7706 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "Akodon toba" ; Times: 2
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 1
+	Query: "Chlamyphorus truncatus 19956" ; Times: 1
+	Query: "Ctenomys 18084" ; Times: 1
+	Query: "Ctenomys boliviensis 18019" ; Times: 1
+	Query: "uconn Erinaceidae" ; Times: 1
+	Query: "cabassous chacoensis Carnegie pwm 247" ; Times: 1
+	Query: "catalognumber:3062 &#34;marmota monax&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 1
+	Query: "catalognumber:3063 &#34;marmota monax&#34;" ; Times: 1
+	Query: "Cabassous chacoensis 16891" ; Times: 1
+	Query: "catalognumber:21439 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "Taphozous nudiventris" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 846 download events in this period)
+Total number of records downloaded: 806
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 8
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "16881 Chlamyphorus retusus" ; Times: 1
+	Query: "Ctenomys boliviensis 17508" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Akodon toba" ; Times: 2
+	Query: "Chlamyphorus truncatus 19956" ; Times: 1
+	Query: "Ctenomys 18084" ; Times: 1
+	Query: "Ctenomys boliviensis 18019" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "lupus dingo" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "family:Felidae lengthtype:total length haslength:1" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;yucatan&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Cabassous chacoensis 16891" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 1
+
+
+End of report.
