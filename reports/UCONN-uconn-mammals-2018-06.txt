@@ -1,0 +1,100 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 457
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Ecuador ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-11 ; Times: 5
+	Date: 2018-06-12 ; Times: 4
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-23 ; Times: 5
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-27 ; Times: 6
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lama guanicoe" ; Times: 1
+	Query: "Chiroptera locality:Chiricahua Mountains county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 7
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 10
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 1
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 5
+	Query: "genus:euphractus" ; Times: 2
+	Query: "priodontes" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 4
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 2
+	Query: "specificepithet:evotis genus:Myotis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1169 download events in this period)
+Total number of records downloaded: 464
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+	Country: Ecuador ; Times: 5
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-28 ; Times: 2
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 3
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "Cavia aperea" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "lemming" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "puma concolor mexico" ; Times: 1
+
+
+End of report.
