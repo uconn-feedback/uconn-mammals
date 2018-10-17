@@ -1,0 +1,127 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 1184
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: El Salvador ; Times: 1
+	Country: United States ; Times: 84
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-03 ; Times: 38
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-08 ; Times: 6
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-05 ; Times: 2
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-26 ; Times: 7
+	Date: 2018-07-01 ; Times: 3
+	Date: 2018-07-24 ; Times: 2
+	Date: 2018-07-25 ; Times: 2
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 6
+	Date: 2018-07-10 ; Times: 3
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 3
+	Query: "dusicyon" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 2
+	Query: "genus:tolypeutes preparations:skeleton" ; Times: 2
+	Query: "herpailurus" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;saint Johns&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 7
+	Query: "genus:Myrmecophaga preparations:skeleton" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 1
+	Query: "chaetophractus" ; Times: 3
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;saint&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "block island specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 3
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 2
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "genus:chaetophractus preparations:skeleton" ; Times: 13
+	Query: "priodontes" ; Times: 2
+	Query: "genus:euphractus preparations:skeleton" ; Times: 16
+	Query: "specificepithet:brachyurus genus:Chrysocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 2
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 1
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 5
+	Query: "institutioncode:UCONN" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis institutioncode:UCONN" ; Times: 1
+	Query: "specificepithet:kappleri genus:dasypus" ; Times: 4
+	Query: "Boar skull" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 1
+	Query: "genus:priodontes preparations:skeleton" ; Times: 4
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 2
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 977 download events in this period)
+Total number of records downloaded: 731
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-30 ; Times: 2
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UCONN" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Brachyphylla cavernarum" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Molossops temminckii" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;johns&#34; stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "specificepithet:palustris genus:Sylvilagus" ; Times: 1
+
+
+End of report.
