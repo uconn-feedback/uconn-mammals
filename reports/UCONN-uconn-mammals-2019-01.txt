@@ -1,0 +1,157 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 155
+Number of records retrieved in searches: 2080
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 151
+	Country: Paraguay ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 13
+	Date: 2019-01-23 ; Times: 4
+	Date: 2019-01-26 ; Times: 3
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 10
+	Date: 2019-01-15 ; Times: 16
+	Date: 2019-01-30 ; Times: 7
+	Date: 2019-01-17 ; Times: 7
+	Date: 2019-01-10 ; Times: 5
+	Date: 2019-01-11 ; Times: 10
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-29 ; Times: 32
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-05 ; Times: 6
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-21 ; Times: 4
+	Date: 2019-01-20 ; Times: 5
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 8
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-16 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;Maine&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus stateprovince:&#34;Connecticut&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 5
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 4
+	Query: "genus:Ctenomys country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 4
+	Query: "specificepithet:riparius genus:Myotis hastissue:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Rhode Island&#34; country:&#34;United States&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:striatus genus:tamias institutioncode:UCONN" ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 2
+	Query: "microtus chrotorrhinus new hampshire" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:leopardus country:&#34;colombia&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 5
+	Query: "family:leporidae stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus stateprovince:&#34;Maine&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 8
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 2
+	Query: "sorex hoyi vermont" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 4
+	Query: "specificepithet:truncatus genus:Chlamyphorus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;new hampshire&#34; country:&#34;United States&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "microtus chrotorrhinus new york" ; Times: 4
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 3
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "specificepithet:rufus genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 3
+	Query: "16264" ; Times: 1
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 3
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:carolinensis genus:Sciurus continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "microtus chrotorrhinus vermont" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 4
+	Query: "specificepithet:breweri genus:microtus institutioncode:UCONN" ; Times: 1
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 3
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;connecticut&#34; country:&#34;United States&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Tennessee&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "microtus chrotorrhinus new york essex" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:californicus genus:lepus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;rhode island&#34; country:&#34;United States&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "592-210" ; Times: 1
+	Query: "(&#34;chaetophractus villosus&#34;)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 962 download events in this period)
+Total number of records downloaded: 914
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Brazil ; Times: 6
+	Country: Spain ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 5
+	Date: 2019-01-28 ; Times: 5
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-13 ; Times: 3
+	Date: 2019-01-29 ; Times: 13
+	Date: 2019-01-30 ; Times: 4
+	Date: 2019-01-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Monodelphis domestica" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "specificepithet:truncatus genus:Chlamyphorus" ; Times: 3
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "specificepithet:breweri genus:microtus institutioncode:UCONN" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+
+End of report.
