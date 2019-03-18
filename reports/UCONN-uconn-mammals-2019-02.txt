@@ -1,0 +1,110 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 677
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Brazil ; Times: 1
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-04 ; Times: 7
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-13 ; Times: 6
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-27 ; Times: 7
+	Date: 2019-02-20 ; Times: 4
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-22 ; Times: 3
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-18 ; Times: 6
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-01 ; Times: 3
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "muskeget island class:mammalia stateprovince:&#34;massachusetts&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UCONN" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 5
+	Query: "specificepithet:OBSCURUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 3
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 4
+	Query: "block island class:mammalia stateprovince:&#34;rhode island&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 4
+	Query: "Ochotona princeps" ; Times: 6
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 4
+	Query: "specificepithet:pennsylvanicus genus:microtus institutioncode:UCONN" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous county:&#34;Quay&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 4
+	Query: "Sorex dispar" ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 3
+	Query: "class:mammalia county:&#34;nantucket&#34; stateprovince:&#34;massachusetts&#34; AND (NOT &#34;Muskeget&#34;)" ; Times: 3
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 3
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 3
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1227 download events in this period)
+Total number of records downloaded: 1101
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-25 ; Times: 3
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-14 ; Times: 6
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 3
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UCONN" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus institutioncode:UCONN" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "&#34;Apodemus mystacinus&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+
+
+End of report.
