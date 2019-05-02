@@ -1,0 +1,154 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 4073
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 96
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 6
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-13 ; Times: 4
+	Date: 2019-04-12 ; Times: 6
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-15 ; Times: 3
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-21 ; Times: 3
+	Date: 2019-04-01 ; Times: 9
+	Date: 2019-04-02 ; Times: 7
+	Date: 2019-04-06 ; Times: 6
+	Date: 2019-04-22 ; Times: 4
+	Date: 2019-04-05 ; Times: 4
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-27 ; Times: 2
+	Date: 2019-04-24 ; Times: 4
+	Date: 2019-04-03 ; Times: 14
+	Date: 2019-04-28 ; Times: 8
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 10
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 4
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 4
+	Query: "12171 class:Mammalia" ; Times: 3
+	Query: "specificepithet:matacus genus:Tolypeutes" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "family:Mephitidae collectioncode:Mammals institutioncode:UCONN" ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 31
+	Query: "class:mammalia stateprovince:&#34;new hampshire&#34; institutioncode:UCONN" ; Times: 1
+	Query: "Alces alces hasmass:1" ; Times: 4
+	Query: "odocoileus virginianus massachusetts" ; Times: 1
+	Query: "12171 class:mammalia" ; Times: 2
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;vermont&#34; institutioncode:UCONN" ; Times: 1
+	Query: "genus:tamias class:mammalia institutioncode:UCONN" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 5
+	Query: "genus:Mephitis institutioncode:UCONN" ; Times: 1
+	Query: "specificepithet:truncatus genus:Chlamyphorus" ; Times: 3
+	Query: "UCONN Mammals 15" ; Times: 3
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 1
+	Query: "12171 order:rodentia" ; Times: 1
+	Query: "Thyroptera" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "specificepithet:chacoensis genus:Cabassous hastissue:1" ; Times: 1
+	Query: "genus:Conepatus institutioncode:UCONN" ; Times: 1
+	Query: "Myotis keenii stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:chacoensis genus:Cabassous" ; Times: 1
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 4
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 4
+	Query: "institutioncode:UCONN" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:UCONN" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 3
+	Query: "gbifdatasetid:temp-uconn-datasetid alces alces" ; Times: 1
+	Query: "Dicotyles" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 6
+	Query: "alouatta seniculus ecuador" ; Times: 2
+	Query: "class:mammalia stateprovince:&#34;maine&#34; institutioncode:UCONN" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 4
+	Query: "herpailurus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1263 download events in this period)
+Total number of records downloaded: 811
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 4
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-02 ; Times: 20
+	Date: 2019-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:&#34;Arequipa&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:chacoensis genus:Cabassous hastissue:1" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "baiomys taylori" ; Times: 1
+	Query: "specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Alces americanus" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "Myotis keenii" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
