@@ -1,0 +1,204 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 1555
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 157
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 6
+	Date: 2019-06-21 ; Times: 3
+	Date: 2019-06-23 ; Times: 7
+	Date: 2019-06-24 ; Times: 2
+	Date: 2019-06-25 ; Times: 1
+	Date: 2019-06-26 ; Times: 15
+	Date: 2019-06-09 ; Times: 4
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-29 ; Times: 2
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-02 ; Times: 1
+	Date: 2019-06-03 ; Times: 17
+	Date: 2019-06-27 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-19 ; Times: 8
+	Date: 2019-06-18 ; Times: 8
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-15 ; Times: 1
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-17 ; Times: 3
+	Date: 2019-06-11 ; Times: 54
+	Date: 2019-06-10 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "genus:Psammomys specificepithet:obesus" ; Times: 2
+	Query: "genus:Ornithorhynchus specificepithet:anatinus" ; Times: 1
+	Query: "genus:Microtus specificepithet:chrotorrhinus" ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 2
+	Query: "genus:Monodelphis specificepithet:brevicaudata" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;new hampshire&#34; institutioncode:UCONN" ; Times: 2
+	Query: "Lama guanacoe" ; Times: 1
+	Query: "UCONN 13939" ; Times: 1
+	Query: "genus:Aotus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Thyroptera specificepithet:tricolor" ; Times: 1
+	Query: "genus:Galea specificepithet:musteloides" ; Times: 1
+	Query: "lama guanicoe" ; Times: 1
+	Query: "genus:Tapirus specificepithet:terrestris" ; Times: 2
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:UCONN" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:seminolus" ; Times: 1
+	Query: "genus:Andalgalomys specificepithet:pearsoni" ; Times: 1
+	Query: "genus:Micromys specificepithet:minutus" ; Times: 2
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 8
+	Query: "genus:Lagothrix specificepithet:lagotricha" ; Times: 2
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "genus:Myotis specificepithet:vivesi" ; Times: 1
+	Query: "order:Cingulata hasmass:1 haslength:1" ; Times: 1
+	Query: "Philander opossum country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:Hipposideros specificepithet:armiger" ; Times: 2
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 1
+	Query: "genus:Hemiechinus specificepithet:auritus" ; Times: 2
+	Query: "genus:Lepus specificepithet:europaeus" ; Times: 1
+	Query: "genus:Euphractus specificepithet:sexcinctus" ; Times: 2
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 5
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 3
+	Query: "Lama guanicoe" ; Times: 2
+	Query: "genus:Promops specificepithet:nasutus" ; Times: 1
+	Query: "genus:Tamandua specificepithet:mexicana" ; Times: 1
+	Query: "genus:Myotis specificepithet:daubentonii" ; Times: 1
+	Query: "genus:Chaetophractus specificepithet:villosus" ; Times: 2
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 3
+	Query: "genus:Eira specificepithet:barbara" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;maine&#34; institutioncode:UCONN" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 1
+	Query: "genus:Myotis specificepithet:riparius" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus institutioncode:UCONN" ; Times: 1
+	Query: "genus:Eumops specificepithet:bonariensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 11
+	Query: "genus:Loris specificepithet:tardigradus" ; Times: 2
+	Query: "genus:Zaedyus specificepithet:pichiy" ; Times: 1
+	Query: "genus:Tamandua specificepithet:tetradactyla" ; Times: 1
+	Query: "genus:spermophilus class:mammalia institutioncode:UCONN" ; Times: 1
+	Query: "genus:Nasua specificepithet:nasua" ; Times: 1
+	Query: "genus:Hydrochoerus specificepithet:hydrochaeris" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;vermont&#34; institutioncode:UCONN" ; Times: 1
+	Query: "genus:Thaptomys specificepithet:nigrita" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus" ; Times: 2
+	Query: "genus:Tolypeutes specificepithet:matacus" ; Times: 1
+	Query: "genus:Meles specificepithet:meles" ; Times: 1
+	Query: "genus:Dipus specificepithet:sagitta" ; Times: 2
+	Query: "genus:Platyrrhinus specificepithet:lineatus" ; Times: 1
+	Query: "recordedby:klemens" ; Times: 1
+	Query: "genus:Felis specificepithet:catus" ; Times: 1
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "genus:Lagostomus specificepithet:maximus" ; Times: 1
+	Query: "genus:Myoprocta specificepithet:acouchy" ; Times: 1
+	Query: "genus:Tachyglossus specificepithet:aculeatus" ; Times: 1
+	Query: "genus:Cebus specificepithet:albifrons" ; Times: 2
+	Query: "genus:Sciurus institutioncode:UCONN" ; Times: 1
+	Query: "genus:Cabassous specificepithet:chacoensis" ; Times: 1
+	Query: "genus:Megaderma specificepithet:lyra" ; Times: 1
+	Query: "genus:Chaetophractus specificepithet:vellerosus" ; Times: 1
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 1
+	Query: "island specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;massachusetts&#34; AND (NOT &#34;Muskeget&#34;)" ; Times: 2
+	Query: "genus:Taphozous specificepithet:nudiventris" ; Times: 1
+	Query: "genus:Eumops specificepithet:dabbenei" ; Times: 1
+	Query: "genus:Chlamyphorus specificepithet:truncatus" ; Times: 1
+	Query: "genus:Asellia specificepithet:tridens" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 3
+	Query: "Galictis cuja" ; Times: 3
+	Query: "genus:Didelphis specificepithet:albiventris" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 6
+	Query: "genus:Rhinopoma specificepithet:hardwickii" ; Times: 1
+	Query: "genus:Monodelphis specificepithet:domestica " ; Times: 2
+	Query: "genus:Procyon specificepithet:cancrivorus" ; Times: 2
+	Query: "genus:Rhinolophus specificepithet:lepidus" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 11
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 6
+	Query: "Zaedyus pichiy" ; Times: 2
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 16
+	Query: "genus:Choloepus specificepithet:hoffmanni" ; Times: 1
+	Query: "genus:Molossops specificepithet:temminckii" ; Times: 1
+	Query: "genus:Pygoderma specificepithet:bilabiatum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1182 download events in this period)
+Total number of records downloaded: 1038
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 26
+	Country: Peru ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-30 ; Times: 2
+	Date: 2019-06-06 ; Times: 3
+	Date: 2019-06-07 ; Times: 7
+	Date: 2019-06-04 ; Times: 8
+	Date: 2019-06-05 ; Times: 5
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-02 ; Times: 1
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-24 ; Times: 2
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gapperi genus:Clethrionomys" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "myotis bocagii" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "continent:europe hasmass:1" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Monodelphis domestica" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Monodelphis brevicaudata" ; Times: 1
+	Query: "armadillos" ; Times: 1
+	Query: "A. alces" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "alewife" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &lt;= 1900" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lama guanicoe" ; Times: 1
+	Query: "brook trout" ; Times: 2
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "Conepatus chinga" ; Times: 1
+	Query: "tamandua tetradactyla year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "white tailed deer" ; Times: 1
+
+
+End of report.
