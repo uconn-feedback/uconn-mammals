@@ -1,0 +1,130 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 944
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 71
+	Country: Nepal ; Times: 7
+	Country: Peru ; Times: 4
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-08 ; Times: 9
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-10 ; Times: 5
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 8
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-22 ; Times: 8
+	Date: 2019-07-21 ; Times: 5
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-24 ; Times: 3
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-16 ; Times: 3
+	Date: 2019-07-29 ; Times: 10
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-06 ; Times: 8
+	Date: 2019-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Felis lynx canadensis" ; Times: 3
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 4
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 4
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 3
+	Query: "ocelot" ; Times: 2
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;Vermont&#34;" ; Times: 2
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 2
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus class:mammalia locality:block island stateprovince:&#34;rhode island&#34;" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 3
+	Query: "Frost Pond" ; Times: 1
+	Query: "genus:microtus stateprovince:&#34;nova scotia&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "QUMSIYEH" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "catalognumber:20021 institutioncode:UCONN" ; Times: 5
+	Query: "genus:Dasypus stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tamiasciurus hudsonicus vntype:specimen stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:Dipus specificepithet:sagitta" ; Times: 1
+	Query: "genus:Procyon specificepithet:cancrivorus" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 4
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 2
+	Query: "&#34;mus musculus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Livermore Peromyscus UCONN" ; Times: 1
+	Query: "sylvilagus transitionalis connecticut" ; Times: 3
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 7
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:UCONN" ; Times: 2
+	Query: "lama guanicoe" ; Times: 6
+	Query: "FAYETTEVILLE Peromyscus" ; Times: 2
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus class:mammalia county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Felis lynx" ; Times: 1
+	Query: "genus:microtus stateprovince:&#34;new brunswick&#34; country:&#34;canada&#34;" ; Times: 2
+	Query: "&#34;sylvilagus transitionalis&#34; vntype:specimen county:&#34;Dukes&#34; stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;sylvilagus transitionalis&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:24081 institutioncode:UCONN" ; Times: 3
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCONN" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 985 download events in this period)
+Total number of records downloaded: 532
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 5
+	Country: Peru ; Times: 7
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-20 ; Times: 3
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-30 ; Times: 2
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 3
+	Query: "lama guanicoe" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "dingo genus:Canis AND (NOT ANWC)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Baja California Sur&#34; continent:America" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
