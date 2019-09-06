@@ -1,0 +1,247 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 289
+Number of records retrieved in searches: 5227
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 152
+	Country: United Kingdom ; Times: 16
+	Country: Peru ; Times: 4
+	Country: Thailand ; Times: 114
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 11
+	Date: 2019-08-28 ; Times: 5
+	Date: 2019-08-29 ; Times: 17
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-03 ; Times: 3
+	Date: 2019-08-04 ; Times: 5
+	Date: 2019-08-05 ; Times: 17
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-07 ; Times: 17
+	Date: 2019-08-08 ; Times: 6
+	Date: 2019-08-09 ; Times: 13
+	Date: 2019-08-24 ; Times: 4
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 18
+	Date: 2019-08-23 ; Times: 3
+	Date: 2019-08-20 ; Times: 10
+	Date: 2019-08-21 ; Times: 99
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 17
+	Date: 2019-08-14 ; Times: 4
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-12 ; Times: 5
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-10 ; Times: 8
+	Date: 2019-08-30 ; Times: 6
+	Date: 2019-08-19 ; Times: 3
+	Date: 2019-08-18 ; Times: 2
+	Date: 2019-08-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "specificepithet:fumeus genus:Sorex stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 2
+	Query: "Saccopteryx bilineata haslength:1" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis septentrionalis haslength:1" ; Times: 2
+	Query: "Mazama gouazoubira" ; Times: 1
+	Query: "Cynopterus sphinx haslength:1" ; Times: 2
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 6
+	Query: "Myotis leibii haslength:1" ; Times: 2
+	Query: "Eptesicus bottae haslength:1" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "Eptesicus furinalis haslength:1" ; Times: 2
+	Query: "Monophyllus redmani haslength:1" ; Times: 2
+	Query: "Micropteropus pusillus haslength:1" ; Times: 2
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "Thyroptera tricolor haslength:1" ; Times: 1
+	Query: "Felis pardalis" ; Times: 5
+	Query: "Pteropus giganteus haslength:1" ; Times: 2
+	Query: "Myotis sodalis haslength:1" ; Times: 2
+	Query: "Myotis evotis haslength:1" ; Times: 2
+	Query: "Taphozous nudiventris haslength:1" ; Times: 2
+	Query: "Brachyphylla cavernarum haslength:1" ; Times: 2
+	Query: "Asellia tridens haslength:1" ; Times: 2
+	Query: "Panthera onca" ; Times: 10
+	Query: "Myotis grisescens haslength:1" ; Times: 2
+	Query: "Rousettus aegyptiacus haslength:1" ; Times: 2
+	Query: "Hipposideros armiger haslength:1" ; Times: 2
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Hampden&#34; stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "Lasiurus borealis haslength:1" ; Times: 2
+	Query: "Molossus molossus haslength:1" ; Times: 2
+	Query: "Myotis yumanensis haslength:1" ; Times: 2
+	Query: "Zapus hudsonius" ; Times: 3
+	Query: "Megaderma lyra haslength:1" ; Times: 2
+	Query: "specificepithet:pecari genus:Tayassu institutioncode:UCONN" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 2
+	Query: "Pygoderma bilabiatum haslength:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 8
+	Query: "Macrotus californicus haslength:1" ; Times: 2
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;Vermont&#34;" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 10
+	Query: "Pipistrellus ceylonicus haslength:1" ; Times: 2
+	Query: "Nycticeius humeralis haslength:1" ; Times: 2
+	Query: "Oecomys concolor" ; Times: 1
+	Query: "genus:Dasypus institutioncode:UCONN" ; Times: 3
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 3
+	Query: "Phyllostomus hastatus haslength:1" ; Times: 1
+	Query: "Promops nasutus haslength:1" ; Times: 2
+	Query: "Myotis riparius" ; Times: 1
+	Query: "Eumops dabbenei haslength:1" ; Times: 2
+	Query: "Eptesicus serotinus haslength:1" ; Times: 2
+	Query: "Myotis riparius haslength:1" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Rhinopoma hardwickii haslength:1" ; Times: 2
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "genus:Sus hasmass:1 haslength:1" ; Times: 1
+	Query: "Rhinolophus lepidus haslength:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCONN" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 3
+	Query: "Rhinolophus ferrumequinum haslength:1" ; Times: 2
+	Query: "Lasiurus cinereus haslength:1" ; Times: 2
+	Query: "Pipistrellus kuhlii haslength:1" ; Times: 1
+	Query: "Platyrrhinus lineatus haslength:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 4
+	Query: "Myotis vivesi haslength:1" ; Times: 2
+	Query: "order:cingulata preparations:skeleton" ; Times: 1
+	Query: "genus:Puma hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Dusicyon" ; Times: 1
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "Lasiurus seminolus haslength:1" ; Times: 2
+	Query: "Felis silvestris catus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "Hipposideros lankadiva haslength:1" ; Times: 2
+	Query: "Myotis nigricans haslength:1" ; Times: 2
+	Query: "Cabassous chacoensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 7
+	Query: "Felis lynx" ; Times: 11
+	Query: "&#34;sylvilagus transitionalis&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:UCONN basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pipistrellus nanulus haslength:1" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Nycteris thebaica haslength:1" ; Times: 2
+	Query: "Lasiurus ega haslength:1" ; Times: 2
+	Query: "genus:Pecari hasmass:1 haslength:1" ; Times: 1
+	Query: "Natalus stramineus haslength:1" ; Times: 2
+	Query: "Felis lynx canadensis" ; Times: 12
+	Query: "Myotis austroriparius haslength:1" ; Times: 2
+	Query: "Dasypus kappleri" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 4
+	Query: "Myotis keenii haslength:1" ; Times: 2
+	Query: "Myotis albescens haslength:1" ; Times: 2
+	Query: "Eidolon helvum haslength:1" ; Times: 2
+	Query: "Cavia tschudii" ; Times: 1
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Berkshire&#34; stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 14
+	Query: "Galictis cuja" ; Times: 4
+	Query: "Noctilio leporinus haslength:1" ; Times: 2
+	Query: "specificepithet:fumeus genus:Sorex stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 5
+	Query: "Eumops bonariensis haslength:1" ; Times: 2
+	Query: "tamias striatus vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:UCONN basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 16
+	Query: "Myotis blythii haslength:1" ; Times: 2
+	Query: "Molossops temminckii haslength:1" ; Times: 2
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Myotis bocagii haslength:1" ; Times: 2
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 5
+	Query: "Pteronotus quadridens haslength:1" ; Times: 2
+	Query: "Mormoops megalophylla haslength:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1034 download events in this period)
+Total number of records downloaded: 10934
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Brazil ; Times: 3
+	Country: Cameroon ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-19 ; Times: 4
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 7
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-26 ; Times: 4
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-24 ; Times: 2
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 4
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "vntype:specimen specificepithet:serotinus genus:Eptesicus preparations:skull" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "bassaricyon" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:myotis preparations:skull" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Arequipa" ; Times: 2
+	Query: "lasiurus ega" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Cameroon&#34;" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:blythii genus:Myotis" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+
+End of report.
