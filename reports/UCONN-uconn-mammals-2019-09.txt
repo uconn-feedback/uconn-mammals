@@ -1,0 +1,212 @@
+Report for Institution Code UCONN, Resource uconn-mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 206
+Number of records retrieved in searches: 2355
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Madagascar ; Times: 1
+	Country: Poland ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 137
+	Country: Thailand ; Times: 60
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 2
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 5
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 8
+	Date: 2019-09-13 ; Times: 4
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 6
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 36
+	Date: 2019-09-02 ; Times: 7
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 10
+	Date: 2019-09-05 ; Times: 60
+	Date: 2019-09-04 ; Times: 11
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-25 ; Times: 2
+	Date: 2019-09-24 ; Times: 11
+	Date: 2019-09-27 ; Times: 9
+	Date: 2019-09-26 ; Times: 10
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 1
+	Query: "Saccopteryx bilineata haslength:1" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis septentrionalis haslength:1" ; Times: 1
+	Query: "genus:Dasypus hasmass:1 haslength:1" ; Times: 1
+	Query: "gbifdatasetid:temp-uconn-datasetid" ; Times: 11
+	Query: "Myotis leibii haslength:1" ; Times: 1
+	Query: "Eptesicus bottae haslength:1" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 5
+	Query: "Eptesicus furinalis haslength:1" ; Times: 1
+	Query: "Monophyllus redmani haslength:1" ; Times: 1
+	Query: "Micropteropus pusillus haslength:1" ; Times: 1
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "Thyroptera tricolor haslength:1" ; Times: 1
+	Query: "specificepithet:pinetorum genus:microtus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Pteropus giganteus haslength:1" ; Times: 1
+	Query: "Myotis sodalis haslength:1" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 1
+	Query: "Taphozous nudiventris haslength:1" ; Times: 1
+	Query: "Brachyphylla cavernarum haslength:1" ; Times: 1
+	Query: "Asellia tridens haslength:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Myotis grisescens haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1979" ; Times: 2
+	Query: "Rousettus aegyptiacus haslength:1" ; Times: 1
+	Query: "order:lagomorpha class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Lasiurus borealis haslength:1" ; Times: 1
+	Query: "Molossus molossus haslength:1" ; Times: 1
+	Query: "Myotis yumanensis haslength:1" ; Times: 1
+	Query: "genus:Mazama hasmass:1 haslength:1" ; Times: 1
+	Query: "Cynopterus sphinx haslength:1" ; Times: 1
+	Query: "Megaderma lyra haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 4
+	Query: "Pygoderma bilabiatum haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 17
+	Query: "Macrotus californicus haslength:1" ; Times: 1
+	Query: "Pipistrellus ceylonicus haslength:1" ; Times: 1
+	Query: "Nycticeius humeralis haslength:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus family:cricetidae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:sylvilagus order:lagomorpha class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 11
+	Query: "Phyllostomus hastatus haslength:1" ; Times: 1
+	Query: "genus:oryzomys family:cricetidae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 2
+	Query: "Promops nasutus haslength:1" ; Times: 1
+	Query: "Eumops dabbenei haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 7
+	Query: "Myotis riparius haslength:1" ; Times: 1
+	Query: "&#34;Glaucomys sabrinus&#34; vntype:specimen stateprovince:&#34;Connecticut&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Rhinopoma hardwickii haslength:1" ; Times: 1
+	Query: "Alces alces hasmass:1" ; Times: 2
+	Query: "specificepithet:truncatus genus:Tursiops hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:oryzomys order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Rhinolophus lepidus haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 2
+	Query: "genus:Tamandua hasmass:1 haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 9
+	Query: "Rhinolophus ferrumequinum haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:microtus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Pipistrellus kuhlii haslength:1" ; Times: 1
+	Query: "order:CARNIVORA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Platyrrhinus lineatus haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 3
+	Query: "Myotis vivesi haslength:1" ; Times: 1
+	Query: "Eptesicus serotinus haslength:1" ; Times: 1
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "Lasiurus seminolus haslength:1" ; Times: 1
+	Query: "Hipposideros lankadiva haslength:1" ; Times: 1
+	Query: "genus:microtus family:cricetidae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Myotis nigricans haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 7
+	Query: "order:chiroptera class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Pipistrellus nanulus haslength:1" ; Times: 1
+	Query: "Nycteris thebaica haslength:1" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Georgia&#34;" ; Times: 5
+	Query: "Lasiurus ega haslength:1" ; Times: 1
+	Query: "Natalus stramineus haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2014" ; Times: 1
+	Query: "Microtus pennsylvanicus 2011" ; Times: 1
+	Query: "genus:Akodon toba hastissue:1" ; Times: 1
+	Query: "Myotis austroriparius haslength:1" ; Times: 1
+	Query: "J. Kalinowski" ; Times: 3
+	Query: "Lynx canadensis" ; Times: 4
+	Query: "Myotis keenii haslength:1" ; Times: 1
+	Query: "Myotis albescens haslength:1" ; Times: 1
+	Query: "Eidolon helvum haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 1976" ; Times: 1
+	Query: "Microtus pennsylvanicus 1979" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Hipposideros armiger haslength:1" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Noctilio leporinus haslength:1" ; Times: 1
+	Query: "specificepithet:ursinus genus:Callorhinus hasmass:1 haslength:1" ; Times: 1
+	Query: "Eumops bonariensis haslength:1" ; Times: 1
+	Query: "Pteronotus quadridens haslength:1" ; Times: 1
+	Query: "specificepithet:palustris genus:oryzomys order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 11
+	Query: "Myotis blythii haslength:1" ; Times: 1
+	Query: "Molossops temminckii haslength:1" ; Times: 1
+	Query: "institutioncode:UCONN" ; Times: 1
+	Query: "Myotis bocagii haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 2
+	Query: "&#34;Glaucomys sabrinus&#34; vntype:specimen stateprovince:&#34;Vermont&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mormoops megalophylla haslength:1" ; Times: 1
+	Query: "mammal institutioncode:UCONN" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1073 download events in this period)
+Total number of records downloaded: 2124
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 12
+	Country: Rwanda ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-25 ; Times: 2
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-26 ; Times: 5
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Holochilus" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Akodon toba" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Akodon toba hastissue:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Holochilus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "specificepithet:armiger genus:Hipposideros" ; Times: 1
+
+
+End of report.
